@@ -120,3 +120,35 @@ img{
     margin-top: 5px;
     font-size: 18px;
 }
+
+.third-section{
+    background-color: #e5e7eb;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3{
+    color: #1f2937;
+    text-align: left;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    margin-left: 20%;
+}
+
+#pthird{
+    color: #1f2937;
+    text-align: right;
+    text-align: end;
+    
+}
+
+.p-div{
+    display: flex;
+   font-size: 20px;
+   margin-right: 350px;
+   font-weight: 900;
+   justify-content: flex-end;
+}
